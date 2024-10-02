@@ -1,0 +1,9 @@
+Código: 001
+Fecha: 2024-09-28
+Total: 130.0
+IVA: 19.0
+Productos:
+	P001, Zapatos Brahama, 200.0
+	P002, Corset Dama, 100.0
+	P003, Gafas de Lujo, 90.0
+
